@@ -1,0 +1,24 @@
+.arrows-container {
+    width: 7%;
+    position: absolute;
+    left: 68%;
+    top: 41%;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.arrow {
+    border: 1px solid black;
+    padding: 35px;
+    border-radius: 10%;
+
+}
+
+.gray {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.blue {
+
+}
